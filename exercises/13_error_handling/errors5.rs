@@ -13,7 +13,6 @@
 
 use std::error::Error;
 use std::fmt;
-use std::num::ParseIntError;
 
 #[derive(PartialEq, Debug)]
 enum CreationError {
